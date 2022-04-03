@@ -1,0 +1,5 @@
+﻿  Source.c
+C:\Users\USER\source\repos\Calculator1\Calculator1\Source.c(7,17): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\Calculator1\Calculator1\Source.c(62,32): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\USER\source\repos\Calculator1\Calculator1\Source.c(62,35): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+  Calculator1.vcxproj -> C:\Users\USER\source\repos\Calculator1\x64\Debug\Calculator1.exe
